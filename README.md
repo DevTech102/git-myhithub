@@ -1,1 +1,1 @@
-# git-myhithub
+# git-mygithub
